@@ -244,7 +244,8 @@ plt.show()
 
 7)Brightness.
 
-<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/671a6828-1a44-4746-8111-ba383da76d55" />
+<img width="827" height="244" alt="420662698-f34966ee-21f9-4441-bdd4-36c3da71b89d" src="https://github.com/user-attachments/assets/9f048762-76f8-4f7f-8e29-3afc2cff5714" />
+
 
 
 8)Contrast.
@@ -256,19 +257,24 @@ plt.show()
 
 <img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/22f8d9bd-0f4f-4032-b813-804525e289a4" />
 
-10)BGR Channel.
-
-<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/3a9e8971-8d92-4a4d-8179-686920c90ee3" />
 
 
-11)Hue Channel.
+10)Hue Channel.
 
 
 <img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/1b27d2ef-5eec-4f7f-8dd9-bfeb24f95248" />
 
-12) Merged HSV Image.
+11) Merged HSV Image.
 
 <img width="794" height="332" alt="download" src="https://github.com/user-attachments/assets/4e047572-4a8d-4c30-9c78-15fb3cc5c21f" />
+
+12)Merge the R, G, B channels and display:
+
+
+
+<img width="406" height="327" alt="421166243-6db4d2a2-8b21-43e5-976a-8f199eebc8cc" src="https://github.com/user-attachments/assets/bdd1ffcf-5b53-42e4-8645-d63c18f80c7d" />
+
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
